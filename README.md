@@ -8,6 +8,7 @@ A repository of the mission file(s) which we will utilize to attempt to enact tr
 
 
 **TODO**<br/>
+• Upgrade to latest version of FP Template V2/Template 5.0 when its released.<br/>
 • Implement a teleporter, if possible.<br/>
 • Finish drawing and writing on-site guides.<br/>
 • Add more courses to the Anti-Shock training facility<br/>
